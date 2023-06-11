@@ -11,9 +11,9 @@ Ok, basically I'm some nerd in highschool who's programs maybe a little bit too 
 1. learning new AI technologies (no way, just like everybody else on the fricking planet)
 2. being cool (exclusive to me sorry)
 3. automating an ever-increasing portion of my life
-6. counting incorrectly
 9. learning new things
 10. making ever-more obsessive ways to automate my learning for me
+
 
  
 ...and many more things that i'll have chatgpt write for me later
