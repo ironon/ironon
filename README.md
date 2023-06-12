@@ -25,3 +25,5 @@ Ok, basically I'm some nerd in highschool who's programs maybe a little bit too 
 (OR HAVE I?!?)
 
 whoever is reading this, go do something cool plz im bored
+
+✨if you're as obsessed as i am with CS hit me up ironwastaken on discrord ~~please help im so sick of playing valorant all day~~ ❤️
