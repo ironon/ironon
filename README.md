@@ -1,7 +1,6 @@
 # ironon
 
-a nerd who does nerd stuff
+i have too much free time 
 
-professional at starting projects
-
-not so much at finishing them
+## social media thingies
+discord: ironwastaken
