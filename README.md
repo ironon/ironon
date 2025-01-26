@@ -9,9 +9,9 @@ detailed write-ups on all my projects
 ### skills
 - [Rust](https://www.rust-lang.org/) (1 yr)
 - Embedded Devices Development with [C++](https://cplusplus.com/) (1 yr)
-- (Python)[https://www.python.org/] Development (4 yr)
+- [Python](https://www.python.org/) Development (4 yr)
 - Data Science / Machine Learning with R and Python (2 yr)
-- LLM Engineering w/ (LangChain)[https://www.langchain.com/] or (crewAI)[https://github.com/crewAIInc/crewAI]
+- LLM Engineering w/ [LangChain](https://www.langchain.com/) or [crewAI](https://github.com/crewAIInc/crewAI)
 - Frontend Development with [React](https://react.dev/), [Vue](https://vuejs.org/), [Svelte](https://svelte.dev/), [Astro](https://astro.build/), and TS & JS Development (3 yr)
 - Backend Development with [Django](https://www.djangoproject.com/), [Firebase](https://firebase.google.com/), [Node.js](https://nodejs.org/en) and [Rocket](https://rocket.rs/) (2 yr)
 - Linux/Bash Scripting (2 yr)
