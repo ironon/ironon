@@ -6,7 +6,11 @@ detailed write-ups on all my projects:
 [https://ironon.me](https://ironon.me)
 
 ### PROJECTS
-
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
 
 ---
 
