@@ -2,7 +2,7 @@
 
 I have too much free time and I make things.
 
-[https://ironon.me](portfolio)
+[portfolio](https://ironon.me)
 
 ## contact
 discord: ironwastaken
