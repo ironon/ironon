@@ -1,8 +1,14 @@
-AW# David Macpherson
+# David Macpherson
 computer science, robotics, and hardware engineering student at the Academies of Loudoun.
 
 detailed write-ups on all my projects
+
 [https://ironon.me](https://ironon.me)
+
+### PROJECTS
+
+
+---
 
 ### SKILLS
 - Embedded Devices Development with [C++](https://cplusplus.com/) (1 yr)
@@ -21,15 +27,13 @@ detailed write-ups on all my projects
 
 ---
 
-### PROJECTS
-
-
----
-
 ### AWARDS
-
+- 2024 ACL Hackathon Hardware Winner via [AI-Powered Security System](https://github.com/ironon/ACLHacks2024)
+- Developer on [5338 FRC Robotics Team](https://github.com/roboloco-5338)
+- [Technology Student Association](https://tsaweb.org/) Member
+- Awarded the National Merit Scholarship Letter of [Commendation](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=1881) 
 
 ## CONTACT
-discord: ironwastaken
 email: david.allan.macpherson@gmail.com
+discord: ironwastaken
 
