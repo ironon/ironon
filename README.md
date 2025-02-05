@@ -5,17 +5,10 @@ detailed write-ups on all my projects:
 
 [https://ironon.me](https://ironon.me)
 
-### PROJECTS
+## CONTACT
+email: david.allan.macpherson@gmail.com
 
-
-
-|     |     |     |
-|-----|-----|-----|
-|  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20240423124103.png">](https://ironon.me/project/?id=0) MNIST in Minecraft  |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20240423125338.png">](https://ironon.me/project/?id=1)  AutoNote: Automatic Flashcard Creation |   [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20240423111320.png">](https://ironon.me/project/?id=2) Custom Documentation System |
-|  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20240423123918.png">](https://ironon.me/project/?id=3) Everything has a distribution.  |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20240723135140.png">](https://ironon.me/project/?id=4)  Reverse Engineering my Virtual Personal Trainer |   [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/NoImage.png">](https://ironon.me/project/?id=5) BestBowl |
-|  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20250123232213.png">](https://ironon.me/project/?id=6) LockdownBox  |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20250123232846.png">](https://ironon.me/project/?id=7)  Automatic Problem Solver |   [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Ray Intersection with Rectangle .excalidraw">](https://ironon.me/project/?id=8) DevLog - Computer Graphics from Scratch |
-|  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/NoImage.png">](https://ironon.me/project/?id=9) Making a Robot in 2 Days  |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/NoImage.png">](https://ironon.me/project/?id=10)  Projectile Motion w/ Euler's Method |   |
-
+discord: ironwastaken
 
 ---
 
@@ -42,8 +35,16 @@ detailed write-ups on all my projects:
 - [Technology Student Association](https://tsaweb.org/) Member
 - Awarded the National Merit Scholarship Letter of [Commendation](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=1881) 
 
-## CONTACT
-email: david.allan.macpherson@gmail.com
 
-discord: ironwastaken
+### PROJECTS
 
+
+|     |     |     |
+|-----|-----|-----|
+|  [<img width="350" height="350 src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20240423124103.png">](https://ironon.me/project/?id=0) MNIST in Minecraft  |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20240423125338.png">](https://ironon.me/project/?id=1)  AutoNote: Automatic Flashcard Creation |   [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20240423111320.png">](https://ironon.me/project/?id=2) Custom Documentation System |
+|  [<img width="350" height="350 src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20240423123918.png">](https://ironon.me/project/?id=3) Everything has a distribution.  |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20240723135140.png">](https://ironon.me/project/?id=4)  Reverse Engineering my Virtual Personal Trainer |   [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/NoImage.png">](https://ironon.me/project/?id=5) BestBowl |
+|  [<img width="350" height="350 src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20250123232213.png">](https://ironon.me/project/?id=6) LockdownBox  |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted image 20250123232846.png">](https://ironon.me/project/?id=7)  Automatic Problem Solver |   [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Ray Intersection with Rectangle .excalidraw">](https://ironon.me/project/?id=8) DevLog - Computer Graphics from Scratch |
+|  [<img width="350" height="350 src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/NoImage.png">](https://ironon.me/project/?id=9) Making a Robot in 2 Days  |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/NoImage.png">](https://ironon.me/project/?id=10)  Projectile Motion w/ Euler's Method |   |
+
+
+---
