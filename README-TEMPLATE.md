@@ -7,6 +7,7 @@ detailed write-ups on all my projects:
 
 ### PROJECTS
 
+
 <INSERT COOL DYNAMIC THING HERE>
 
 ---
