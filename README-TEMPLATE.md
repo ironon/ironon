@@ -5,10 +5,10 @@ detailed write-ups on all my projects:
 
 [https://ironon.me](https://ironon.me)
 
-### PROJECTS
+## CONTACT
+email: david.allan.macpherson@gmail.com
 
-
-<INSERT COOL DYNAMIC THING HERE>
+discord: ironwastaken
 
 ---
 
@@ -35,8 +35,9 @@ detailed write-ups on all my projects:
 - [Technology Student Association](https://tsaweb.org/) Member
 - Awarded the National Merit Scholarship Letter of [Commendation](https://www.nationalmerit.org/s/1758/interior.aspx?sid=1758&gid=2&pgid=1881) 
 
-## CONTACT
-email: david.allan.macpherson@gmail.com
 
-discord: ironwastaken
+### PROJECTS
 
+<INSERT COOL DYNAMIC THING HERE>
+
+---
