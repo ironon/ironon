@@ -1,3 +1,3 @@
 import os
 os.system("kate")
-os.system("commit.sh")
+os.system("bash commit.sh")
