@@ -7,15 +7,20 @@ def pad_to_square(image):
     width, height = image.size
     max_dimension = max(width, height)
 
+    # Ensure the image has an alpha channel for transparency
+    if image.mode != "RGBA":
+        image = image.convert("RGBA")
+
     # Calculate padding for each side
     pad_left = (max_dimension - width) // 2
     pad_right = max_dimension - width - pad_left
     pad_top = (max_dimension - height) // 2
     pad_bottom = max_dimension - height - pad_top
 
-    # Pad the image with white (255, 255, 255)
+    # Pad the image with transparent padding
     padding = (pad_left, pad_top, pad_right, pad_bottom)
-    return ImageOps.expand(image, padding, fill=(255, 255, 255))
+    return ImageOps.expand(image, padding, fill=(0, 0, 0, 0)) 
+
 
 def process_images_in_folder(folder_path):
     """Processes all images in the given folder by cropping them to squares."""
