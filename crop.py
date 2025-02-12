@@ -19,7 +19,7 @@ def pad_to_square(image):
 
     # Pad the image with transparent padding
     padding = (pad_left, pad_top, pad_right, pad_bottom)
-    return ImageOps.expand(image, padding, fill=(0, 0, 0, 1)) 
+    return ImageOps.expand(image, padding, fill=(230, 234, 239, 0)) 
 
 
 def process_images_in_folder(folder_path):
