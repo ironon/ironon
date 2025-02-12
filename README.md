@@ -39,7 +39,6 @@ discord: ironwastaken
 ### PROJECTS
 
 
-|     |     |     |
 |-----|-----|-----|
 |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted-image-20240423125338.png">](https://ironon.me/project/?id=1) AutoNote: Automatic Flashcard Creation  |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted-image-20250211181419.png">](https://ironon.me/project/?id=2)  Making a Robot in 2 Days |   [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted-image-20250211192020.png">](https://ironon.me/project/?id=3) Winning ACL Hacks 2024 |
 |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted-image-20250211191222.png">](https://ironon.me/project/?id=4) Making an Official School Website - TuskyTime  |  [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted-image-20240423111320.png">](https://ironon.me/project/?id=5)  Custom Documentation System |   [<img width="350" src="https://raw.githubusercontent.com/ironon/ironon/refs/heads/master/Pasted-image-20240723135140.png">](https://ironon.me/project/?id=7) Reverse Engineering my Virtual Personal Trainer |
