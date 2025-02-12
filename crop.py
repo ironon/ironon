@@ -1,15 +1,21 @@
 import os
-from PIL import Image
 
-def crop_to_square(image):
-    """Crops the given image to a square with the size of the smallest dimension."""
+from PIL import Image, ImageOps
+
+def pad_to_square(image):
+    """Pads the given image with white bars to make it square."""
     width, height = image.size
-    min_dimension = min(width, height)
-    left = (width - min_dimension) // 2
-    top = (height - min_dimension) // 2
-    right = left + min_dimension
-    bottom = top + min_dimension
-    return image.crop((left, top, right, bottom))
+    max_dimension = max(width, height)
+
+    # Calculate padding for each side
+    pad_left = (max_dimension - width) // 2
+    pad_right = max_dimension - width - pad_left
+    pad_top = (max_dimension - height) // 2
+    pad_bottom = max_dimension - height - pad_top
+
+    # Pad the image with white (255, 255, 255)
+    padding = (pad_left, pad_top, pad_right, pad_bottom)
+    return ImageOps.expand(image, padding, fill=(255, 255, 255))
 
 def process_images_in_folder(folder_path):
     """Processes all images in the given folder by cropping them to squares."""
@@ -26,7 +32,7 @@ def process_images_in_folder(folder_path):
         if os.path.isfile(file_path) and filename.lower().endswith(supported_extensions):
             try:
                 with Image.open(file_path) as img:
-                    cropped_img = crop_to_square(img)
+                    cropped_img = pad_to_square(img)
                     cropped_img.save(file_path)  # Overwrite the original image
                     print(f"Processed: {filename}")
             except Exception as e:
