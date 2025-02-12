@@ -1,13 +1,11 @@
 # David Macpherson
-computer science, robotics, and hardware engineering student at the Academies of Loudoun.
-
-detailed write-ups on all my projects:
+I'm a computer science, robotics, and hardware engineering student at the Academies of Loudoun.
+Detailed write-ups on all my projects:
 
 [https://ironon.me](https://ironon.me)
 
 ## CONTACT
-email: david.allan.macpherson@gmail.com
-
+david.allan.macpherson@gmail.com
 discord: ironwastaken
 
 ---
